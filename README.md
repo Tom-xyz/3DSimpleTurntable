@@ -14,8 +14,7 @@
 * Print the motor fixture ('v0_stepper_rotator_lid.obj')
 * Print the top/turntable (TODO)
 
-![](https://github.com/Tom-xyz/3DSimpleTurntable/blob/main/Preview/3d_print_1.jpg)
-![](https://github.com/Tom-xyz/3DSimpleTurntable/blob/main/Preview/3d_print_2.jpg)
+![](https://github.com/Tom-xyz/3DSimpleTurntable/raw/main/Preview/3d_print_2.jpeg)
 
 
 ### Assembly
@@ -25,13 +24,13 @@ TODO: Wiring Diagrams
 TODO: Parts list
 
 
-![](https://github.com/Tom-xyz/3DSimpleTurntable/blob/main/Preview/internals.jpg)
+![](https://raw.githubusercontent.com/Tom-xyz/3DSimpleTurntable/main/Preview/internals.jpeg)
 
 
-![](https://github.com/Tom-xyz/3DSimpleTurntable/blob/main/Preview/motor_lid.jpg)
+![](https://raw.githubusercontent.com/Tom-xyz/3DSimpleTurntable/main/Preview/motor_lid.jpeg)
 
 
-![](https://github.com/Tom-xyz/3DSimpleTurntable/blob/main/Preview/wiring.jpg)
+![](https://raw.githubusercontent.com/Tom-xyz/3DSimpleTurntable/main/Preview/wiring.jpeg)
 
 
 
